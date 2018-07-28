@@ -1,0 +1,18 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/gokistats",
+  "1.12.2": {
+    "1.2.1": "Configuration update",
+    "1.2.0": "Added config for all stats",
+    "1.1.3": "Fixed serveral stat bugs",
+    "1.1.2": "Downgrading",
+    "1.1.1": "Client splitting",
+    "1.1.0": "Fixed sounds",
+    "1.0.9": "Fixed swordsman",
+    "1.0.8": "Furnace ticking",
+    "1.0.7": "Upgrade to 1.12.2"
+  },
+  "promos": {
+    "1.12.2-latest": "1.2.1",
+    "1.12.2-recommended": "1.2.1"
+  }
+}
